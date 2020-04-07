@@ -1,5 +1,7 @@
 package com.sunil.springpetclinic.model;
 
+import org.springframework.ui.Model;
+
 import java.time.LocalDate;
 
 public class Pet extends BaseEntity {
@@ -14,6 +16,7 @@ public class Pet extends BaseEntity {
     public void setPetType(PetType petType) {
         this.petType = petType;
     }
+
 
     public Owner getOwner() {
         return owner;
