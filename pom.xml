@@ -39,12 +39,12 @@
 			</plugin>
 		</plugins>
 	</build>
-	<scm>
-		<developerConnection>
-			scm:https://github.com/mamatniroula1/spring-pet-clinic.git
-		</developerConnection>
+<!--	<scm>-->
+<!--		<developerConnection>-->
+<!--			scm:https://github.com/mamatniroula1/spring-pet-clinic.git-->
+<!--		</developerConnection>-->
 
-	  <tag>spring-pet-clinic-0.0.1</tag>
-  </scm>
+<!--	  <tag>spring-pet-clinic-0.0.1</tag>-->
+<!--  </scm>-->
 
 </project>
