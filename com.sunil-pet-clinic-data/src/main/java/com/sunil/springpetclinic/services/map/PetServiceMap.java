@@ -1,6 +1,5 @@
 package com.sunil.springpetclinic.services.map;
 
-import com.sunil.springpetclinic.model.Owner;
 import com.sunil.springpetclinic.model.Pet;
 import com.sunil.springpetclinic.services.CrudService;
 
